@@ -1,0 +1,89 @@
+2022-04-05 17:15:21.189  INFO 15396 --- [main] n.InfybuzzSpringRestApiCourseApplication : Starting InfybuzzSpringRestApiCourseApplication using Java 1.8.0_202 on DESKTOP-7MR0AN4 with PID 15396 (C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2\target\classes started by devbhatt in C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2)
+2022-04-05 17:15:21.197  INFO 15396 --- [main] n.InfybuzzSpringRestApiCourseApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-05 17:15:22.387  INFO 15396 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-05 17:15:22.469  INFO 15396 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 67 ms. Found 3 JPA repository interfaces.
+2022-04-05 17:15:25.144  INFO 15396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9006 (http)
+2022-04-05 17:15:25.158  INFO 15396 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-05 17:15:25.158  INFO 15396 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-05 17:15:25.704  INFO 15396 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-05 17:15:25.706  INFO 15396 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4394 ms
+2022-04-05 17:15:26.226  INFO 15396 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-05 17:15:26.340  INFO 15396 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-04-05 17:15:26.750  INFO 15396 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-05 17:15:26.957  INFO 15396 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-05 17:15:27.292  INFO 15396 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-05 17:15:27.350  INFO 15396 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2022-04-05 17:15:29.548  INFO 15396 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-05 17:15:29.565  INFO 15396 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-05 17:15:30.700  WARN 15396 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-05 17:15:31.829  INFO 15396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9006 (http) with context path ''
+2022-04-05 17:15:31.848  INFO 15396 --- [main] n.InfybuzzSpringRestApiCourseApplication : Started InfybuzzSpringRestApiCourseApplication in 11.296 seconds (JVM running for 12.286)
+2022-04-05 17:15:49.786  INFO 15396 --- [http-nio-9006-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-05 17:15:49.788  INFO 15396 --- [http-nio-9006-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-05 17:15:49.790  INFO 15396 --- [http-nio-9006-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-04-05 17:18:29.008  INFO 16428 --- [main] n.InfybuzzSpringRestApiCourseApplication : Starting InfybuzzSpringRestApiCourseApplication using Java 1.8.0_202 on DESKTOP-7MR0AN4 with PID 16428 (C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2\target\classes started by devbhatt in C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2)
+2022-04-05 17:18:29.013  INFO 16428 --- [main] n.InfybuzzSpringRestApiCourseApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-05 17:18:30.057  INFO 16428 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-05 17:18:30.126  INFO 16428 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 58 ms. Found 3 JPA repository interfaces.
+2022-04-05 17:18:31.902  INFO 16428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9006 (http)
+2022-04-05 17:18:31.928  INFO 16428 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-05 17:18:31.930  INFO 16428 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-05 17:18:32.161  INFO 16428 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-05 17:18:32.162  INFO 16428 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3015 ms
+2022-04-05 17:18:32.460  INFO 16428 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-05 17:18:32.535  INFO 16428 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-04-05 17:18:32.801  INFO 16428 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-05 17:18:32.971  INFO 16428 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-05 17:18:33.182  INFO 16428 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-05 17:18:33.207  INFO 16428 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2022-04-05 17:18:34.982  INFO 16428 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-05 17:18:34.999  INFO 16428 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-05 17:18:35.864  WARN 16428 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-05 17:18:36.580  INFO 16428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9006 (http) with context path ''
+2022-04-05 17:18:36.590  INFO 16428 --- [main] n.InfybuzzSpringRestApiCourseApplication : Started InfybuzzSpringRestApiCourseApplication in 8.241 seconds (JVM running for 8.777)
+2022-04-05 17:18:41.980  INFO 16428 --- [http-nio-9006-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-05 17:18:41.981  INFO 16428 --- [http-nio-9006-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-05 17:18:41.983  INFO 16428 --- [http-nio-9006-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-04-05 17:19:35.338 ERROR 16428 --- [http-nio-9006-exec-3] com.controller.StudentController         : inside error
+2022-04-05 17:19:35.339  WARN 16428 --- [http-nio-9006-exec-3] com.controller.StudentController         : inside warn
+2022-04-05 17:19:35.339  INFO 16428 --- [http-nio-9006-exec-3] com.controller.StudentController         : inside info
+2022-04-05 17:19:35.339 DEBUG 16428 --- [http-nio-9006-exec-3] com.controller.StudentController         : inside debug
+2022-04-05 17:19:35.340 TRACE 16428 --- [http-nio-9006-exec-3] com.controller.StudentController         : inside trace
+2022-04-05 17:20:24.754  INFO 14464 --- [main] n.InfybuzzSpringRestApiCourseApplication : Starting InfybuzzSpringRestApiCourseApplication using Java 1.8.0_202 on DESKTOP-7MR0AN4 with PID 14464 (C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2\target\classes started by devbhatt in C:\Users\devbh\Downloads\New folder (17)\New folder\infybuzz-datajpa-version2)
+2022-04-05 17:20:24.758  INFO 14464 --- [main] n.InfybuzzSpringRestApiCourseApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-05 17:20:25.679  INFO 14464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-05 17:20:25.783  INFO 14464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 82 ms. Found 3 JPA repository interfaces.
+2022-04-05 17:20:27.440  INFO 14464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9006 (http)
+2022-04-05 17:20:27.460  INFO 14464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-05 17:20:27.461  INFO 14464 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-05 17:20:27.701  INFO 14464 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-05 17:20:27.702  INFO 14464 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2823 ms
+2022-04-05 17:20:28.016  INFO 14464 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-05 17:20:28.086  INFO 14464 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-04-05 17:20:28.328  INFO 14464 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-05 17:20:28.496  INFO 14464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-05 17:20:28.710  INFO 14464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-05 17:20:28.731  INFO 14464 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2022-04-05 17:20:30.660  INFO 14464 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-05 17:20:30.674  INFO 14464 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-05 17:20:31.453  WARN 14464 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-05 17:20:32.172  INFO 14464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9006 (http) with context path ''
+2022-04-05 17:20:32.183  INFO 14464 --- [main] n.InfybuzzSpringRestApiCourseApplication : Started InfybuzzSpringRestApiCourseApplication in 8.029 seconds (JVM running for 8.642)
+2022-04-05 17:20:35.000  INFO 14464 --- [http-nio-9006-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-05 17:20:35.000  INFO 14464 --- [http-nio-9006-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-05 17:20:35.001  INFO 14464 --- [http-nio-9006-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-04-05 17:20:35.050 ERROR 14464 --- [http-nio-9006-exec-1] com.controller.StudentController         : ratlam ki gali mein kyun aana haana hai?
+2022-04-05 17:20:35.051  WARN 14464 --- [http-nio-9006-exec-1] com.controller.StudentController         : inside warn
+2022-04-05 17:20:35.052  INFO 14464 --- [http-nio-9006-exec-1] com.controller.StudentController         : inside info
+2022-04-05 17:20:35.052 DEBUG 14464 --- [http-nio-9006-exec-1] com.controller.StudentController         : inside debug
+2022-04-05 17:20:35.052 TRACE 14464 --- [http-nio-9006-exec-1] com.controller.StudentController         : inside trace
+2022-04-05 17:22:47.165 ERROR 14464 --- [http-nio-9006-exec-5] com.controller.StudentController         : ratlam ki gali mein kyun aana haana hai?
+2022-04-05 17:22:47.165  WARN 14464 --- [http-nio-9006-exec-5] com.controller.StudentController         : inside warn
+2022-04-05 17:22:47.166  INFO 14464 --- [http-nio-9006-exec-5] com.controller.StudentController         : inside info
+2022-04-05 17:22:47.166 DEBUG 14464 --- [http-nio-9006-exec-5] com.controller.StudentController         : inside debug
+2022-04-05 17:22:47.167 TRACE 14464 --- [http-nio-9006-exec-5] com.controller.StudentController         : inside trace
+2022-04-05 17:23:00.917 ERROR 14464 --- [http-nio-9006-exec-6] com.controller.StudentController         : ratlam ki gali mein kyun aana haana hai?
+2022-04-05 17:23:00.918  WARN 14464 --- [http-nio-9006-exec-6] com.controller.StudentController         : inside warn
+2022-04-05 17:23:00.918  INFO 14464 --- [http-nio-9006-exec-6] com.controller.StudentController         : inside info
+2022-04-05 17:23:00.918 DEBUG 14464 --- [http-nio-9006-exec-6] com.controller.StudentController         : inside debug
+2022-04-05 17:23:00.926 TRACE 14464 --- [http-nio-9006-exec-6] com.controller.StudentController         : inside trace

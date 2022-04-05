@@ -1,0 +1,1 @@
+# infybuzz-datajpa-version2
